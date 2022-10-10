@@ -1,0 +1,7 @@
+canvas.drawCircle
+
+setWillOnDraw в конец.
+
+paint нужен для цвета и свойств круга
+
+второй конструктор surface, потом build -> make project

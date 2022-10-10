@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab18_Lukyanov</string>
+    <string name="labSelectedGraph">Selected graph: -1</string>
+    <string name="labRename">Rename text:</string>
+    <string name="labTextNode">Node text:</string>
+    <string name="labXNode">Node X:</string>
+    <string name="labYNode">Node Y:</string>
+    <string name="labValueLink">Link value:</string>
+    <string name="btnSaveNode">SAVE NODE</string>
+    <string name="btnSaveLink">SAVE LINK</string>
+</resources>
